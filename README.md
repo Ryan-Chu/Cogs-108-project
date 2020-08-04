@@ -1,0 +1,2 @@
+This was a group project made with peers at UCSD. This was a python project that we scraped data to determine if it was beneficial for a country to host the world cup.
+Credit to: Bushra Rajput, Ajit Selvakumaren, Aditi Vaidya, Jude Muhtaseb for working on this project with me.
