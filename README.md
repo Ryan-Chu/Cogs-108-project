@@ -1,2 +1,3 @@
-This was a group project made with peers at UCSD. This was a python project that we scraped data to determine if it was beneficial for a country to host the world cup.
+This was a group project made with peers at UCSD. This was a python project that we scraped data to determine if it was beneficial for a country to host the world cup. We show our entire process of accessing online data, cleaning the data, and trying achieve a message. We based "beneficial" as a few factors such as the gdp, tourism rates, and a few other factors during the few years while hosting the world cup.
+
 Credit to: Bushra Rajput, Ajit Selvakumaren, Aditi Vaidya, Jude Muhtaseb for working on this project with me.
